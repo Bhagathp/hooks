@@ -9,7 +9,7 @@ const mystyle = {
       borderRadius: "25px"
 };
 
-// This is App.js 
+// This is App.js react app
 function App() {
   return (
     <div  className="App" >
